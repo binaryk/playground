@@ -1,0 +1,1 @@
+# BinarCode Laravel Template
